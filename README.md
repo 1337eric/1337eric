@@ -1,1 +1,3 @@
-👋 Yo, I’m Eric
+### Multilingual Developer 💻
+
+##👋 Hey there, I’m Eric
