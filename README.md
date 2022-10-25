@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I%27m+Eric;Take+a+look+at+some+of+my+projects!&font=Fira%20Code&color=%00a2ff&center=true&width=600&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I%27m+Eric;Take+a+look+at+some+of+my+projects!&font=Fira%20Code&color=%200a2ff&center=true&width=600&height=50">
 </p>
 <h1>Multilingual Fullstack Developer 💻</h1>
 <h4>📚 - Proficient in: C++, C#, Objective C, Python, CSS, HTML, GoLang, Lua, Shell, Bash, Perl, SQL, MongoDB, and JSON!</h4>
