@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I%27m+Eric;Take+a+look+at+some+of+my+projects!&font=Fira%20Code&color=%200a2ff&center=true&width=600&height=50">
 </p>
 <h1>Multilingual Fullstack Developer 💻</h1>
-<h4>📚 - Proficient in: Python2/Python3, C++, Objective C, SQL, MongoDB, and JSON!</h4>
+<h4>🧠 - Proficient in: Python2/Python3, C++, Objective C, SQL, MongoDB, and JSON!</h4>
 <h4>👨‍💻 - Expirience with: C# (Winforms), Java, CSS, HTML, GoLang, Lua, Shell, Perl
 <h4>📚 - Topics I've worked with: Object detection AI development, Windows API, Linux and Windows Application Development, Web API communication/development, Network analysis, Security, Penetration Testing, Malware Reversal, Web Scraping, bot automation, and much more.</h4>
 <h4>🧰 - Tools I'm Familiar With: YOLOv8/YOLOv5 AI, Tcpdump, Wireshark, IDA, x64dbg </h4>
