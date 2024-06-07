@@ -5,7 +5,7 @@
 <h4>🧠 - Proficient in: Python2/Python3, C++, Objective C, SQL, MongoDB, and JSON!</h4>
 <h4>👨‍💻 - Expirience with: C# (Winforms), Java, CSS, HTML, GoLang, Lua, Shell, Perl
 <h4>📚 - Topics I've worked with: Object detection AI development, Windows API, Linux and Windows Application Development, Web API communication/development, Network analysis, Security, Penetration Testing, Malware Reversal, Web Scraping, bot automation, and much more.</h4>
-<h4>🧰 - Tools I'm Familiar With: YOLOv8/YOLOv5 AI, Tcpdump, Wireshark, IDA, x64dbg </h4>
+<h4>🧰 - Tools I'm Familiar With: YOLOv8/YOLOv5 AI, tcpdump, netcat, nmap, Wireshark, IDA, x64dbg </h4>
 <h4>🖥️ - Operating Systems: Windows 10, Linux - Debian/Kali, CentOS, Ubuntu
 <h4>📙 - Currently working on: strengthening my understanding of x64 assembly and developing a VOIP program</h4>
 
