@@ -3,7 +3,7 @@
 </p>
 <h1>Multilingual Fullstack Developer 💻</h1>
 <h4>🧠 - Proficient in: Python2/Python3, C++, Objective C, SQL, MongoDB, and JSON!</h4>
-<h4>👨‍💻 - Expirience with: C# (Winforms), Java, CSS, HTML, GoLang, Lua, Shell, Perl
+<h4>👨‍💻 - Experience with: C# (Winforms), Java, CSS, HTML, GoLang, Lua, Shell, Perl
 <h4>📚 - Topics I've worked with: Object detection AI development, Windows API, Linux and Windows Application Development, Web API communication/development, Network analysis, Security, Penetration Testing, Malware Reversal, Web Scraping, bot automation, and much more.</h4>
 <h4>🧰 - Tools I'm Familiar With: YOLOv8/YOLOv5 AI, tcpdump, netcat, nmap, Wireshark, IDA, x64dbg </h4>
 <h4>🖥️ - Operating Systems: Windows 10, Linux - Debian/Kali, CentOS, Ubuntu
@@ -11,7 +11,7 @@
 
 
 <h1>👋 Hey there, I’m Eric</h1>
-<h4>I'm 19 years old, and been programming since I was 13. I started learning how basic networks communicate along with some scripting languages such as GoLang and Python. I moved on from networking to Windows application development and malware reversal when I was 16. Other hobbies I enjoy are fishing, working out, playing basketball, and investing into stocks.</h4> 
+<h4>I'm 20 years old, and been programming since I was 13. I started learning how basic networks communicate along with some scripting languages such as GoLang and Python. I moved on from networking to Windows application development and malware reversal when I was 16. I also enjoy going to the gym.</h4> 
 
 
 <p align="center">
