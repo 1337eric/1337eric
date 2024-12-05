@@ -7,11 +7,11 @@
 <h4>📚 - Topics I've worked with: Object detection AI development, Windows API, Linux and Windows Application Development, Web API communication/development, Network analysis, Security, Penetration Testing, Malware Reversal, Web Scraping, bot automation, and much more.</h4>
 <h4>🧰 - Tools I'm Familiar With: YOLOv8/YOLOv5 AI, tcpdump, netcat, nmap, Wireshark, IDA, x64dbg </h4>
 <h4>🖥️ - Operating Systems: Windows 10, Linux - Debian/Kali, CentOS, Ubuntu
-<h4>📙 - Currently working on: strengthening my understanding of x64 assembly and developing an IOS app / learning SwiftUI</h4>
+<h4>📙 - Currently working on: Reading/Writing ASM, FPGA architecture design with Verilog, and Windows Kernel Development (WDK SDK)</h4>
 
 
 <h1>👋 Hey there, I’m Eric</h1>
-<h4>I'm 20 years old, and been programming since I was 13. I started learning how basic networks communicate along with some scripting languages such as GoLang and Python. I moved on from networking to Windows application development and malware reversal when I was 16. I also enjoy going to the gym.</h4> 
+<h4>I'm 20 years old, and been programming since I was 13. I started learning how basic networks communicate along with some scripting languages such as GoLang and Python. I moved on from networking to Windows application development and malware reversal when I was 16. I find fun moving from topic to topic and learning new things. I also enjoy going to the gym.</h4> 
 
 
 <p align="center">
